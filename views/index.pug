@@ -1,0 +1,14 @@
+extends default
+
+block content
+  div.container
+    each carte in carti
+      div.carte
+        div.carte-image(style=`background: url('/images/${carte.imgSrc}') top center
+        no-repeat; background-size: cover;`)
+        h2.carte-name
+          | #{carte.nume}
+        a.a31(href=`/profile?id=${carte.id}`).
+            Citeste Poveste
+        
+

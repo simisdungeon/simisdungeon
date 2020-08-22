@@ -1,0 +1,32 @@
+{
+    "profiles" : [
+    {
+        "nume":"Balada mioritica ",
+        "bio": 
+        "Pe-un picior de plai \n\n\n  Pe-o gura de rai        Iata vine-n cale        Simi fata mare        Cu 3 negri grei         Dinaia mititiei         Care duc in vale        3 clanuri rivale        Unu-i ghertian        Altu-i gigian        Si ultimu-i getaian         Si are rase multe        Rupte si batute         De trei zile-ncoace        Gura nu-i mai tace        Puța nu-i mai place        Pare bolnavioara        De o boala si-o sa moara        Caci omul barbatesc        Care din pacate e fratesc        La Simi nu-i da pace        Toata ziua-i da capace        Da esti nazdravana!        Spuse rasa gigiana         Simi cand se enerva        Dete una si zbura        Doua ramasesera        Din cate mai fusesera        Simi iara suparata        Planse iara de indata        Cand vazu inlacrimata        O femeie parfumata        Eseul l-ai terminat?         Intr-un mod determinat        Simi se arunca        La a sa porunca        Tu mi-ai dat 9?        Afara incepu sa ploua        Da, eu te-am stricat!         Afara a si tunat        Cu o lovitura tare        Plina de razbunare        Simi dete iar puternic        Dar din pacate zadarnic        Cel putin asa credea        Ca in 3 secunde inceta        Din a mai respira        Geta murea...        Simi se duse mai departe        Cu ganduri tulburate        Media tot 10 n-a fost         Dar la Gigi in brate gasi adapost",
+        "review":"5/5",
+        "autor":"D S ",
+        "imgSrc": "s4.jpg",
+        "id":"c1"
+    },
+    {
+        "nume":"IS BAT MORT",
+        "bio":"Marina este un roman care aparține tinerei ficțiuni adulte a scriitorului spaniol Carlos Ruiz Zafón. A fost publicată în 1999 de editura Edebé și reeditată în februarie 2017, aducând totalul la aproximativ treisprezece ediții",
+        "review":"3/5",
+        "autor":"Carlos Ruiz Zafón",
+        "imgSrc": "s4.jpg",
+        "id":"c2"
+    },
+    {
+        "nume":"BEAU FUMEZ",
+        "bio":"Jocul Îngerului este o preelecție din 2001, Umbra vântului, a autorului spaniol Carlos Ruiz Zafón. Romanul marchează întoarcerea la Cimitirul Cărților Uitate din cartierul Raval din Barcelona și la librăria Sempere & Sons. Ca și Umbra vântului, a fost tradusă în engleză de Lucia Graves și publicată în 2009.",
+        "review":"2/5",
+        "autor":"Carlos Ruiz Zafón",
+        "imgSrc": "s4.jpg",
+        "id":"c3"
+        
+    }
+    ]
+
+}
+
